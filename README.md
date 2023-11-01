@@ -1,4 +1,4 @@
-# NLP Project exploring the effects of SIL 
+# NLP Project exploring the effects of SIL  
 ## Code by Damion, Gavin, Michaela 
 
 ## How to run the code:
