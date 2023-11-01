@@ -47,8 +47,6 @@ save_cm(custom_metrics_dict["confusion_matrix"], "Model_2_NoSil_Dataset2", "Mode
 
 # #Predictions for Model 2 on Dataset 1:
 
-
-
 custom_metrics_dict = evaluate_model(model_2_no_sil, test_1_dataloader)
 print("===========NO SIL MODEL ON DATASET 1 (NaijaSenti) REPORT===========")
 print("Accuracy:", custom_metrics_dict["accuracy"])
